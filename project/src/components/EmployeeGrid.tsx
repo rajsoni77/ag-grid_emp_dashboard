@@ -309,7 +309,7 @@ const EmployeeGrid: React.FC = () => {
       {/* Header */}
       <div className='mb-6'>
         <div className='flex items-center gap-3 mb-2'>
-          <img src={factwiseLogo} alt='FactWise Logo' className='w-8 h-8' />
+          <img src='/logo192.png' alt='FactWise Logo' className='w-8 h-8' />
           <h1 className='text-3xl font-bold text-gray-900'>
             FactWise Employee Dashboard
           </h1>
